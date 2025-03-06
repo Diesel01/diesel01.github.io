@@ -122,7 +122,8 @@
           {%- endif -%}
           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
           <div class="periodical">
-            {{ periodical | strip }}
+            <!-- {{ periodical | strip }} -->
+              {{entry.journaltitle | strip}}
           </div>
         {%- endif %}
         
