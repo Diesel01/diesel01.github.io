@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: titles.publications
 description: #
-years: [2019, 2020, 2023, 2025]
+years: [2025, 2023, 2020, 2019]
 nav: true
 nav_order: 1
 ---
