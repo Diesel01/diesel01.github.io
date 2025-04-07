@@ -48,8 +48,8 @@
   contents:
 
     - title: "Remembering and imagining as attitudes: an interpretivist account"
-      institution: <i>Synthese</i>, <a href='https://matheusdw.com/assets/pdf/Diesel_Werberich_Forthcoming_Remering%20and%20imagining%20as%20attitudes.pdf'> preprint </a>
-      year: Forthcoming      
+      institution: <i>Synthese</i>, vol. 205, n. 162, <a href='https://doi.org/10.1007/s11229-025-05000-y'> url </a> | <a href='https://matheusdw.com/assets/pdf/Diesel_Werberich_Forthcoming_Remering%20and%20imagining%20as%20attitudes.pdf'> preprint </a>
+      year: 2025      
 
     - title: Top-down and bottom-up constraints in mechanistic inquiry 
       institution: <i>Controverisa (Unisinos)</i>, vol. 19, n. 3, <a href='https://doi.org/10.4013/con.2023.193.06'> url </a>
@@ -70,6 +70,11 @@
 - title: Refereed talks in conferences
   type: time_table
   contents:
+
+    - title: "Memory as an information bottleneck"
+      year: 2025
+      description: "Issues in Philosophy of Memory 4.5, Online event"
+       
     - title: "Memory as learning"
       year: 2025
       description: Southern Society for Philosophy and Psychology, Mobile, AL
