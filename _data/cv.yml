@@ -52,7 +52,7 @@
       year: 2025      
 
     - title: Top-down and bottom-up constraints in mechanistic inquiry 
-      institution: <i>Controverisa (Unisinos)</i>, vol. 19, n. 3, <a href='https://doi.org/10.4013/con.2023.193.06'> url </a>
+      institution: <i>Controversia (Unisinos)</i>, vol. 19, n. 3, <a href='https://doi.org/10.4013/con.2023.193.06'> url </a>
       year: 2023
 
     - title: A metacognitive approach to memory markers  
@@ -122,6 +122,11 @@
 - title: Teaching
   type: time_table
   contents:
+
+    - title: Teaching Assistant - Intro to Cognitive Science - WashU
+      year: Fall 2025
+      description: "Primary instructor: Luis Rosa"
+
     - title: Teaching Assistant - Present Moral Problems - WashU
       year: Spring 2025
       description: "Primary instructor: Anne Baril" 
