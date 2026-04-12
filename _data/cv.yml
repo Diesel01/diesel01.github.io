@@ -71,6 +71,10 @@
   type: time_table
   contents:
 
+    - title: "Why do we have two memory systems? An information-theoretic account"
+      year: 2026
+      description: Society for Philosophy and Psychology, Johns Hopkins University, Baltimore, USA 
+
     - title: "A defense of the personal past condition"
       year: 2026
       description: "123rd Meeting of the APA, Central Division. Philosophy of Memory Organization affiliated group session"
@@ -122,6 +126,10 @@
 - title: Teaching
   type: time_table
   contents:
+
+    - title: Sole instructor - Biomedical Ethics - WashU
+      year: Summer 2026
+      description:
 
     - title: Teaching Assistant - Intro to Cognitive Science - WashU
       year: Fall 2025
