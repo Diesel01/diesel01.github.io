@@ -127,29 +127,14 @@
   type: time_table
   contents:
 
-    - title: Sole instructor - Biomedical Ethics - WashU
+    - title: Biomedical Ethics - WashU
       year: Summer 2026
       description:
 
-    - title: Teaching Assistant - Intro to Cognitive Science - WashU
-      year: Fall 2025
-      description: "Primary instructor: Luis Rosa"
-
-    - title: Teaching Assistant - Present Moral Problems - WashU
-      year: Spring 2025
-      description: "Primary instructor: Anne Baril" 
-
-    - title: Teaching Assistant - Philosophy of Medicine - WashU
-      year: Fall 2024
-      description: "Primary instructor: Marina DiMarco" 
-
-    - title: Sole instructor - State Highschool Coronel Pilar
+    - title: State Highschool Coronel Pilar
       year: 2021 - 2022
       description: "Teached Introduction to logic, Philosophy of science, and Free will for senior highschool students"
-    
-    - title: Sole instructor - Pedagogical Residency
-      year: 2020 - 2022
-      description: "Participant of UFSM’s education project for teaching at public highschools"
+      
 # - title: Honors and Awards
 #   type: time_table
 #   contents:
