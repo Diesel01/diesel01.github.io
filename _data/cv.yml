@@ -67,6 +67,14 @@
       institution: <i>Em curso</i>, vol. 6, <a href='http://www.emcurso.ufscar.br/index.php/emcurso/article/view/248'> url </a>
       year: 2019
 
+- title: Invited publications
+  type: time_table
+  contents:
+
+    - title: "Book Review: Dreaming and Memory: Philosophical Issues"
+      institution: <i> Memory Studies </i>, <a href='https://doi.org/10.1177/17506980261447438'> url </a>
+      year: 2026  
+
 - title: Refereed talks in conferences
   type: time_table
   contents:
