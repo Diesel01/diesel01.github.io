@@ -79,6 +79,10 @@
   type: time_table
   contents:
 
+    - title: "LLMs as research subjects in psychology: what are they good for?"
+      year: 2026
+      description: Philosophy of Machine Learning Conference} (PhilML'26), Ludwig-Maximilians-Universität München
+
     - title: "Why do we have two memory systems? An information-theoretic account"
       year: 2026
       description: European Society for Philosophy and Psychology, Utrecht University, Utrecht, NL 
@@ -134,10 +138,6 @@
 - title: Teaching
   type: time_table
   contents:
-
-    - title: Biomedical Ethics - WashU
-      year: Summer 2026
-      description:
 
     - title: State Highschool Coronel Pilar
       year: 2021 - 2022
