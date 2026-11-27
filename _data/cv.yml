@@ -22,7 +22,7 @@
       institution: Federal University of Santa Maria, Santa Maria, Brazil
       year: 2022 - 2023
       description:
-        - Dissertation&#58 <a href="https://repositorio.ufsm.br/handle/1/29681"> "The mechanisms of time&#58 delieneating the systems for episodic memory and imagination" </a>
+        - Dissertation&#58 <a href="https://portal.ufsm.br/biblioteca//pesquisa/registroBibliografico.html?numeroControle=00117717"> "The mechanisms of time&#58 delieneating the systems for episodic memory and imagination" </a>
         - Supervisor&#58 César Schirmer dos Santos
         - Funded by <i>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</i>, CAPES
     - title: Licentiate's degree in Philosophy
@@ -67,7 +67,7 @@
       institution: <i>Em curso</i>, vol. 6, <a href='http://www.emcurso.ufscar.br/index.php/emcurso/article/view/248'> url </a>
       year: 2019
 
-- title: Invited publications
+- title: Other publications
   type: time_table
   contents:
 
@@ -75,13 +75,17 @@
       institution: <i> Memory Studies </i>, <a href='https://doi.org/10.1177/17506980261447438'> url </a>
       year: 2026  
 
-- title: Refereed talks in conferences
+- title: Refereed presentations
   type: time_table
   contents:
+  
+    - title: "Optimality and evolution in neuroscience"
+      year: 2027
+      description: International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), National University of Tres de Febrero
 
     - title: "LLMs as research subjects in psychology: what are they good for?"
       year: 2026
-      description: Philosophy of Machine Learning Conference} (PhilML'26), Ludwig-Maximilians-Universität München
+      description: Philosophy of Machine Learning Conference (PhilML'26), Ludwig-Maximilians-Universität München
 
     - title: "Why do we have two memory systems? An information-theoretic account"
       year: 2026
@@ -138,6 +142,10 @@
 - title: Teaching
   type: time_table
   contents:
+
+    - title: Washington University in St. Louis
+      year: 2027
+      description: "Logic & Critical Analysis"
 
     - title: State Highschool Coronel Pilar
       year: 2021 - 2022
